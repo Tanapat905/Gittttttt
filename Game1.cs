@@ -9,6 +9,7 @@ namespace Gittttttt
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         bool MingkyIsGay;
+        bool MingGay;
 
         public Game1()
         {
