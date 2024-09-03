@@ -10,6 +10,7 @@ namespace Gittttttt
         private SpriteBatch _spriteBatch;
         bool MingkyIsGay;
         bool MingGay;
+        bool KyGay; 
 
         public Game1()
         {
